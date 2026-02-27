@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">👋 ¡Hello people! My name is Jesus Hernandez.</h1>
+<h1 align="center">👋 My name is Jesus Hernandez</h1>
 <h3 align="center">🚀 I'm a software developer in training</h3>
 
 ---
